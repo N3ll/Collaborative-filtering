@@ -5,3 +5,6 @@ Collaborative filtering systems work by collecting user feedback in the form of 
 ## Python version
 
 Python 2
+
+
+*Wrote during participation in the course Data Mining by University of Notre Dame, College of Engineering*
